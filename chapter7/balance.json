@@ -1,0 +1,170 @@
+{
+    "fiat": {
+        "bank": [
+            {
+                "id": 0,
+                "currency": "USD",
+                "amount": 100.0,
+                "amountDollar": 100.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "merchant": [
+            {
+                "id": 0,
+                "currency": "USD",
+                "amount": 100.0,
+                "amountDollar": 100.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "advcash": [
+            {
+                "id": 0,
+                "currency": "USD",
+                "amount": 100.0,
+                "amountDollar": 100.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "exchange": [
+            {
+                "id": 0,
+                "currency": "USD",
+                "amount": 100.0,
+                "amountDollar": 100.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "rollingReverse": [
+            {
+                "id": 0,
+                "currency": "USD",
+                "amount": 100.0,
+                "amountDollar": 100.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ]
+    },
+    "hot": [
+        {
+            "id": 0,
+            "currency": "BTC",
+            "amount": 1.0,
+            "amountDollar": 6500.0,
+            "updatedAt": 1580482269162,
+            "createdAt": 1580482269162
+        }
+    ],
+    "locked": {
+        "id": 0,
+        "currency": "BTC",
+        "amount": 1.0,
+        "amountDollar": 6500.0,
+        "updatedAt": 1580482269162,
+        "createdAt": 1580482269162
+    },
+    "huobi": {
+        "spot": [
+            {
+                "id": 0,
+                "currency": "BTC",
+                "amount": 1.0,
+                "amountDollar": 6500.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "margin": [
+            {
+                "accountId": 7653463,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162,
+                "symbol": "btcusdt",
+                "major": {
+                    "trade": 1.0,
+                    "freeze": 0.0,
+                    "loan": 0.0,
+                    "tradeDollar": 6500.0,
+                    "freezeDollar": 0.0,
+                    "loanDollar": 0.0
+                },
+                "quoted": {
+                    "trade": 5000.0,
+                    "freeze": 0.0,
+                    "loan": 0.0,
+                    "tradeDollar": 5000.0,
+                    "freezeDollar": 0.0,
+                    "loanDollar": 0.0
+                }
+            }
+        ],
+        "loan": [
+            {
+                "id": 0,
+                "currency": "BTC",
+                "amount": 0.0,
+                "amountDollar": 0.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ]
+    },
+    "own": [
+        {
+            "id": 0,
+            "currency": "BTC",
+            "amount": 0.0,
+            "amountDollar": 0.0,
+            "updatedAt": 1580482269162,
+            "createdAt": 1580482269162
+        }
+    ],
+    "client": [
+        {
+            "id": 0,
+            "currency": "BTC",
+            "amount": 0.0,
+            "amountDollar": 0.0,
+            "updatedAt": 1580482269162,
+            "createdAt": 1580482269162
+        }
+    ],
+    "total": {
+        "own": [
+            {
+                "id": 0,
+                "currency": "BTC",
+                "amount": 0.0,
+                "amountDollar": 0.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "hot": [
+            {
+                "id": 0,
+                "currency": "BTC",
+                "amount": 0.0,
+                "amountDollar": 0.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ],
+        "total": [
+            {
+                "id": 0,
+                "currency": "BTC",
+                "amount": 0.0,
+                "amountDollar": 0.0,
+                "updatedAt": 1580482269162,
+                "createdAt": 1580482269162
+            }
+        ]
+    }
+}
